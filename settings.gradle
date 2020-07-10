@@ -1,0 +1,2 @@
+rootProject.name='A21Notification'
+include ':app'
